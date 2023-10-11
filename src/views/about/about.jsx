@@ -49,7 +49,7 @@ const About = () => {
             </div>
 
 
-            <div className="mt-5 hidden md:block"> {/*todos los iconos y avatar en lg screen*/}
+            <div className="mt-5 hidden md:block md:z-[-1]"> {/*todos los iconos y avatar en lg screen*/}
             
             <div className="absolute top-0 left-0 w-full h-screen">
                 <img src={avatar} alt="avatar" className="w-full h-full object-cover" />
