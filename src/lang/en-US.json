@@ -1,0 +1,61 @@
+{
+    "nav.home":"Home",
+    "nav.about": "about",
+    "nav.profile": "Profile",
+    "nav.portfolio": "Portfolio",
+    "nav.blog": "Blog",
+    "nav.contact": "contact",
+
+    "home.hello":"Hello",
+    "home.name":"I'm Iveth",
+    "home.fs":"FULL STACK DEVELOPER",
+    "home.PS":"PERN STACK DEVELOPER",
+
+    "about.title":"ABOUT ME",
+    "about.p1":"Being passionate about programming since I was young led me to pursue learning about technologies to thrive in the IT world.",
+    "about.p2":"While studying Computer Science at university, my life took an unexpected turn, leading me to stray away from my dream for a while. I explored unrelated work environments outside the IT world, diverse fields where I met people from whom I learned a great deal, both professionally and personally. This experience led me to develop many of my skills, such as efficient problem-solving, discipline, and resilience, to name a few. I encountered obstacles that I efficiently and satisfactorily resolved to achieve my goals and those of the companies I worked for. I would love to tell you more about this in an interview.",
+    "about.p3":"Now, after investing time and effort to get back on track and through self-directed projects, I have become a valuable candidate to be part of your development team.",
+
+    "profile.edu":"EDUCATION",
+    "profile.edu1":"Bachelor Computer Science",
+    "profile.edu2":"Full stack Web Developer",
+    "profile.edu3":"Responsive web design / javascript / front end libraries",
+
+    "profile.sk":"SKILLSET",
+
+    "profile.skGoals":"SKILL GOALS",
+
+    "profile.Hb":"HOBBIES",
+    "profile.Hb1":"Programming personal projects",
+    "profile.Hb2":"Read",
+    "profile.Hb3":"Long walks",
+    "profile.Hb4":"Spend time with family and friends",
+
+    "portfolio.title1":"Lawyer Buffet",
+    "portfolio.desc1":"Responsive landing page ReactJs /  TailwindCss nodemailer",
+    "portfolio.title2":"Private chef Services",
+    "portfolio.desc2":"Responsive landing page ReactJs /  TailwindCss nodemailer iNext18",
+    "portfolio.title3":"Bonita",
+    "portfolio.desc3":"APP E-commerce PERN CRUD",
+    "portfolio.title4":"PokeApi",
+    "portfolio.desc4":"Single page App consuming API, render and create functions JS/React/NodeJs/express",
+
+    "portfolio.titleCurrent":"Currently working on",
+    "portfolio.descCurrent":"Multilingual App SPA CRUD PERN to manage customer orders with different profiles",
+
+    "contact.title":"GET IN TOUCH",
+    "contact.subtitle1":"Hire me",
+    "contact.subtitle2":"Let's work together",
+
+
+
+
+    "blog.titleMain": "Focus Title",
+    "blog.pMain": "This text would be a single-line introduction",
+
+    "blog.title1":"Primer titulo",
+    "blog.p1":"Die Verwendung von Lorem Ipsum als Platzhaltertext ist in der Grafik- und Webdesignbranche weit verbreitet. Es hilft Designern und Entwicklern, eine Vorstellung davon zu bekommen, wie der endgültige Text in einem bestimmten Layout aussehen würde. ",
+    
+    "blog.title2":"aaabbbcccE",
+    "blog.p2":"dddeeefffE"
+}

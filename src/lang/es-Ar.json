@@ -1,0 +1,54 @@
+{
+    "nav.home": "Inicio",
+    "nav.about": "Acerca de",
+    "nav.profile": "Perfil",
+    "nav.portfolio": "Portfolio",
+    "nav.blog": "Blog",
+    "nav.contact": "contacto",
+
+    "home.hello": "Hola",
+    "home.name":"Soy Iveth",
+    "home.fs": "DESARROLLADOR FULL STACK",
+    "home.PS": "DESARROLLADOR PERN STACK",
+
+    "about.title": "ACERCA DE MÍ",
+    "about.p1": "Un gran interes por la programación desde joven, me llevó a aprender sobre tecnologías para prosperar en el mundo de la informática.",
+    "about.p2": "Mientras estudiaba Ciencias de la Computación en la universidad, mi vida dio un giro inesperado, lo que me llevó a alejarme de mi sueño por un tiempo. Exploré otros entornos de trabajo no relacionados al mundo IT, campos diversos en los que conocí personas de las que aprendí mucho, tanto profesional como personalmente. Esta experiencia me llevó a desarrollar muchas de mis habilidades como:  resolucion eficiente de problemas, disciplina y resiliencia por mencionar algunas. Encontré obstáculos que resolví de manera eficiente y satisfactoria para alcanzar mis objetivos y los de las empresas para las que trabaje. Me encantaría contarte más sobre esto en una entrevista.",
+    "about.p3": "Ahora, después de invertir tiempo y esfuerzo para volver al camino correcto y a través de proyectos autodirigidos, me he convertido en un candidato valioso para ser parte de tu equipo de desarrollo.",
+   
+    "profile.edu":"EDUCACION",
+    "profile.edu1": "Licenciatura en Ciencias de la Computación",
+    "profile.edu2": "Desarrollador Web Full Stack",
+    "profile.edu3": "Diseño web Responsive / JavaScript / Bibliotecas de front-end",
+    "profile.sk": "CONOCIMIENTOS",
+    "profile.skGoals": "ME INTERESA",
+    "profile.Hb": "HOBBIES",
+    "profile.Hb1": "Programar proyectos personales",
+    "profile.Hb2": "Leer",
+    "profile.Hb3": "Largas caminatas",
+    "profile.Hb4": "Pasando tiempo con familiares y amigos",
+   
+    "portfolio.title1": "Bufé de Abogados",
+    "portfolio.desc1": "Página landing responsive ReactJs / TailwindCss nodemailer",
+    "portfolio.title2": "Servicios de Chef Privado",
+    "portfolio.desc2": "Página landing responsive ReactJs / TailwindCss nodemailer iNext18",
+    "portfolio.title3": "Bonita",
+    "portfolio.desc3": "Aplicación de comercio electrónico PERN CRUD",
+    "portfolio.title4": "PokeApi",
+    "portfolio.desc4": "SPA que consume API, funciones de renderizado y creación JS/React/NodeJs/Express",
+    "portfolio.titleCurrent": "Actualmente trabajando en",
+    "portfolio.descCurrent": "Aplicación multilingüe SPA CRUD PERN para gestionar pedidos de clientes con diferentes perfiles",
+    
+    "contact.title": "CONTACTAME",
+    "contact.subtitle1": "Contrátame",
+    "contact.subtitle2": "Trabajemos juntos",
+   
+   
+   
+    "blog.titleMain":"titulo foco",
+    "blog.pMain": "este texto seria el intro de una sola linea",
+    "blog.title1": "Primer título",
+    "blog.p1": "El uso de Lorem Ipsum como texto de marcador de posición es común en las industrias de diseño gráfico y web. Ayuda a los diseñadores y desarrolladores a tener una idea de cómo se vería el texto final en un diseño específico.",
+    "blog.title2": "aaabbbccc",
+    "blog.p2": "dddeeefff"
+}
