@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/ivt-portfolio/static/css/main.aa730a89.css",
+    "main.js": "/ivt-portfolio/static/js/main.02959a0a.js",
+    "static/media/bkgrnd_Black.png": "/ivt-portfolio/static/media/bkgrnd_Black.06aacfe2c7bca9173487.png",
+    "static/media/comingSoon.png": "/ivt-portfolio/static/media/comingSoon.95f4321df76a113b7044.png",
+    "static/media/prfl_pic.png": "/ivt-portfolio/static/media/prfl_pic.08e069aafe5340703cea.png",
+    "static/media/prfl_picSm.png": "/ivt-portfolio/static/media/prfl_picSm.ca162984a2239f99d1ab.png",
+    "static/media/pokeApi.png": "/ivt-portfolio/static/media/pokeApi.38b5e558e85ac203d938.png",
+    "static/media/lawyerWbst.png": "/ivt-portfolio/static/media/lawyerWbst.91e77ab9d27f7583d223.png",
+    "static/media/NotFound.png": "/ivt-portfolio/static/media/NotFound.22a646458b3b06d2354b.png",
+    "static/media/bonita.png": "/ivt-portfolio/static/media/bonita.a0680ebfd4632e3ea47a.png",
+    "static/media/heronight2.png": "/ivt-portfolio/static/media/heronight2.c05683c29ddc51254eeb.png",
+    "static/media/Kollektif.ttf": "/ivt-portfolio/static/media/Kollektif.33fdfd1d0f21c0c8283b.ttf",
+    "static/media/workingOn.png": "/ivt-portfolio/static/media/workingOn.81a66339e1831a59f339.png",
+    "static/media/heronight2Sm.png": "/ivt-portfolio/static/media/heronight2Sm.4c37d919826575da17f2.png",
+    "static/media/blueDotsDouble.png": "/ivt-portfolio/static/media/blueDotsDouble.3bed8df36d48858dee94.png",
+    "static/media/heronight5.png": "/ivt-portfolio/static/media/heronight5.09a5e61b5b8894e9e217.png",
+    "static/media/heronight6.png": "/ivt-portfolio/static/media/heronight6.927aab0adfcb9a380d5c.png",
+    "static/media/heronight3.png": "/ivt-portfolio/static/media/heronight3.a86c15c90e6b2c272b87.png",
+    "static/media/LeagueSpartan-Bold.otf": "/ivt-portfolio/static/media/LeagueSpartan-Bold.caadcad8af387d419251.otf",
+    "static/media/heronight.png": "/ivt-portfolio/static/media/heronight.c574dc11bbd45a65d2ec.png",
+    "static/media/space-mono-latin-400-normal.ttf": "/ivt-portfolio/static/media/space-mono-latin-400-normal.6228c9d95452e44fd80b.ttf",
+    "static/media/heronight4.png": "/ivt-portfolio/static/media/heronight4.62766b82d489d4d74d28.png",
+    "static/media/heronight5Sm.png": "/ivt-portfolio/static/media/heronight5Sm.91fa2fe718cafafc3ed3.png",
+    "static/media/heronight6Sm.png": "/ivt-portfolio/static/media/heronight6Sm.24d839eb8a06e2fd2968.png",
+    "static/media/heronight7.png": "/ivt-portfolio/static/media/heronight7.1ac9057754c112e342ba.png",
+    "static/media/heronight3Sm.png": "/ivt-portfolio/static/media/heronight3Sm.1056ad8f9d29085ae388.png",
+    "static/media/chefLanding.png": "/ivt-portfolio/static/media/chefLanding.22e075842dbed35cf340.png",
+    "static/media/heronightSm.png": "/ivt-portfolio/static/media/heronightSm.bf6c4ba065781a82ab01.png",
+    "index.html": "/ivt-portfolio/index.html",
+    "main.aa730a89.css.map": "/ivt-portfolio/static/css/main.aa730a89.css.map",
+    "main.02959a0a.js.map": "/ivt-portfolio/static/js/main.02959a0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa730a89.css",
+    "static/js/main.02959a0a.js"
+  ]
+}
