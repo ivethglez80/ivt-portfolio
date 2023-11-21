@@ -23,7 +23,7 @@ const About = () => {
 
 
 
-            <div className="z-1 text-slate-300 text-start md:pt-8 md:ml-10 md:mr-10">
+            <div className="z-1 text-slate-300 text-start md:py-auto md:ml-10 md:mr-10">
                 <h2 className="font-title font-bold text-2xl md:text-3xl mt-5 ml-5 md:ml-0 md:mt-0">
                     <FormattedMessage id="about.title" defaultMessage="ACERCA DE MI" />
                 </h2>
