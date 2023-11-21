@@ -19,7 +19,7 @@ import hero7Sm from "./../../img/heronight7Sm.png";
 
 const About = () => {
     return (
-        <div className=" md:grid md:grid-cols-2 animate-fadeIn">
+        <div className=" md:grid md:grid-cols-2 animate-fadeIn  md:pt-[80px]">
 
 
 
@@ -33,10 +33,10 @@ const About = () => {
                 <div className="mx-5 md:mx-0">
                 <p className="font-txt text-xs md:text-base">
                     <FormattedMessage id="about.p1" defaultMessage="Un gran interes por la programación desde joven, me llevó a aprender sobre tecnologías para prosperar en el mundo de la informática." />
-                </p>
+                </p><br/>
                 <p className="font-txt text-xs md:text-base">
                     <FormattedMessage id="about.p2" defaultMessage="Mientras estudiaba Ciencias de la Computación en la universidad, mi vida dio un giro inesperado, lo que me llevó a alejarme de mi sueño por un tiempo. Exploré otros entornos de trabajo no relacionados al mundo IT, campos diversos en los que conocí personas de las que aprendí mucho, tanto profesional como personalmente. Esta experiencia me llevó a desarrollar muchas de mis habilidades como:  resolucion eficiente de problemas, disciplina y resiliencia por mencionar algunas. Encontré obstáculos que resolví de manera eficiente y satisfactoria para alcanzar mis objetivos y los de las empresas para las que trabaje. Me encantaría contarte más sobre esto en una entrevista." />
-                </p>
+                </p><br/>
                 <p className="font-txt text-xs md:text-base">
                     <FormattedMessage id="about.p3" defaultMessage="Ahora, después de invertir tiempo y esfuerzo para volver al camino correcto y a través de proyectos autodirigidos, me he convertido en un candidato valioso para ser parte de tu equipo de desarrollo." />
                 </p>
@@ -75,8 +75,8 @@ const About = () => {
 
             </div>
 
-            <div className="md:hidden relative"> {/*iconos +avatar en small screen */}
-            <div className="relative h-[300px]">
+            <div className="md:hidden relative "> {/*iconos +avatar en small screen */}
+            <div className="relative h-[380px]">
                 <img src={avatarSm} alt="avatar" className="absolute"/>
                 <img src={hero} alt="avatar" className="absolute"/>
                 <img src={hero3Sm} alt="avatar" className="absolute"/>

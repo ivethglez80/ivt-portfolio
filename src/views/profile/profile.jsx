@@ -5,7 +5,7 @@ import {PiPlant} from "react-icons/pi";
 
 const Profile = () => {
     return (
-        <div className="animate-fadeIn mx-5 md:mx-10 mt-5 md:mt-10 md:grid md:grid-cols-4 md:gap-16 text-slate-300">
+        <div className="animate-fadeIn mx-5 md:mx-10 mt-5 md:mt-10 md:grid md:grid-cols-4 md:gap-16 text-slate-300 md:pt-[60px]">
 
             <div className="text-start mb-5 md:mb-0">
             <h1 className="font-title font-bold text-2xl"><FormattedMessage id="profile.edu" defaultMessage="EDUCACION" /></h1 >

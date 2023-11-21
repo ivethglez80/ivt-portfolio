@@ -15,13 +15,13 @@ const BlogCard = ({ blogImg, title, content, defTitle, defContent }) => {
 const Blog = () => {
     return (
         <>
-            <div className="flex flex-col items-center mt-5 md:mt-0 md:grid md:grid-cols-3 md:mx-10 md:gap-20 animate-fadeIn">
+            <div className="flex flex-col items-center mt-5 md:mt-0 md:grid md:grid-cols-3 md:mx-10 md:gap-20 animate-fadeIn md:pt-[60px]">
 
                 <div className="md:col-span-2 text-slate-300 flex flex-col items-center md:mt-16 relative">
                     <img src={ComingSoonPic} alt="coming soon" className="rounded-lg w-[280px] md:h-[400px] md:w-auto z-[-1]" />
                     <div className="absolute bottom-0 text-center w-full">
-                        <p className="font-title font-bold text-xl md:text-2xl"><FormattedMessage id="blog.titleMain" defaultMessage="titulo Foco" /></p>
-                        <p className="font-txt text-xs px-2 md:text-base"><FormattedMessage id="blog.pMain" defaultMessage="este texto sería el intro de una sola línea" /></p>
+                        <p className="font-title font-bold text-xl md:text-2xl"><FormattedMessage id="blog.titleMain" defaultMessage="Titulo Foco" /></p>
+                        {/* <p className="font-txt text-xs px-2 md:text-base"><FormattedMessage id="blog.pMain" defaultMessage="este texto sería el intro de una sola línea" /></p> */}
                     </div>
                 </div>
 
@@ -31,7 +31,7 @@ const Blog = () => {
                         blogImg={ComingSoonPic}
                         title="blog.title1" content="blog.p1"
                         defTitle="Primer título"
-                        defContent="El uso de Lorem Ipsum como texto de marcador de posición es común en las industrias de diseño gráfico y web. Ayuda a los diseñadores y desarrolladores a tener una idea de cómo se vería el texto final en un diseño específico."
+                        defContent="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
                     />
 
                     {/* <BlogCard title="blog.title2" content="blog.p2" 
