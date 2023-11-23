@@ -32,13 +32,13 @@ const About = () => {
 
                 <div className="mx-5 md:mx-0">
                 <p className="font-txt text-xs md:text-base">
-                    <FormattedMessage id="about.p1" defaultMessage="Un gran interes por la programación desde joven, me llevó a aprender sobre tecnologías para prosperar en el mundo de la informática." />
+                    <FormattedMessage id="about.p1" defaultMessage="Impulsada por una pasión inquebrantable por la codificación y la tecnología, prospero al crear experiencias digitales fluidas y resolver problemas complejos como Full Stack Developer. Con una sólida base en tecnologías tanto de front-end como de back-end, me especializo en crear aplicaciones web robustas que rompen barreras y ofrecen experiencias de usuario excepcionales." />
                 </p><br/>
                 <p className="font-txt text-xs md:text-base">
-                    <FormattedMessage id="about.p2" defaultMessage="Mientras estudiaba Ciencias de la Computación en la universidad, mi vida dio un giro inesperado, lo que me llevó a alejarme de mi sueño por un tiempo. Exploré otros entornos de trabajo no relacionados al mundo IT, campos diversos en los que conocí personas de las que aprendí mucho, tanto profesional como personalmente. Esta experiencia me llevó a desarrollar muchas de mis habilidades como:  resolucion eficiente de problemas, disciplina y resiliencia por mencionar algunas. Encontré obstáculos que resolví de manera eficiente y satisfactoria para alcanzar mis objetivos y los de las empresas para las que trabaje. Me encantaría contarte más sobre esto en una entrevista." />
+                    <FormattedMessage id="about.p2" defaultMessage="En mi viaje como Full Stack Developer, he abrazado desafíos, fomentando la innovación y la eficiencia a través de mi código. Creo en el poder de la tecnología para transformar ideas en realidad y busco constantemente oportunidades para expandir mis habilidades y conocimientos en el siempre cambiante panorama tecnológico." />
                 </p><br/>
                 <p className="font-txt text-xs md:text-base">
-                    <FormattedMessage id="about.p3" defaultMessage="Ahora, después de invertir tiempo y esfuerzo para volver al camino correcto y a través de proyectos autodirigidos, me he convertido en un candidato valioso para ser parte de tu equipo de desarrollo." />
+                    <FormattedMessage id="about.p3" defaultMessage="Cuando no estoy inmersa en líneas de código, soy una aventurera de corazón, explorando el mundo de los lenguajes y marcos de codificación con la misma entusiasmo que me lleva a descubrir nuevos lugares. Ya sea optimizando algoritmos o descubriendo gemas ocultas durante mis viajes, abordo cada esfuerzo con curiosidad y determinación." />
                 </p>
                 </div>
 
