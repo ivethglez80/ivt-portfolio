@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ivt-portfolio/static/css/main.aa730a89.css",
-    "main.js": "/ivt-portfolio/static/js/main.73b64660.js",
+    "main.css": "/ivt-portfolio/static/css/main.8628b6d0.css",
+    "main.js": "/ivt-portfolio/static/js/main.2d90d256.js",
     "static/media/bkgrnd_Black.png": "/ivt-portfolio/static/media/bkgrnd_Black.06aacfe2c7bca9173487.png",
     "static/media/comingSoon.png": "/ivt-portfolio/static/media/comingSoon.95f4321df76a113b7044.png",
     "static/media/prfl_pic.png": "/ivt-portfolio/static/media/prfl_pic.08e069aafe5340703cea.png",
@@ -29,11 +29,11 @@
     "static/media/chefLanding.png": "/ivt-portfolio/static/media/chefLanding.22e075842dbed35cf340.png",
     "static/media/heronightSm.png": "/ivt-portfolio/static/media/heronightSm.bf6c4ba065781a82ab01.png",
     "index.html": "/ivt-portfolio/index.html",
-    "main.aa730a89.css.map": "/ivt-portfolio/static/css/main.aa730a89.css.map",
-    "main.73b64660.js.map": "/ivt-portfolio/static/js/main.73b64660.js.map"
+    "main.8628b6d0.css.map": "/ivt-portfolio/static/css/main.8628b6d0.css.map",
+    "main.2d90d256.js.map": "/ivt-portfolio/static/js/main.2d90d256.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa730a89.css",
-    "static/js/main.73b64660.js"
+    "static/css/main.8628b6d0.css",
+    "static/js/main.2d90d256.js"
   ]
 }
