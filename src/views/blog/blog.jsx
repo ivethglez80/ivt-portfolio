@@ -31,7 +31,7 @@ const Blog = () => {
                         blogImg={ComingSoonPic}
                         title="blog.title1" content="blog.p1"
                         defTitle="Primer título"
-                        defContent="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                        defContent="Lorem ipsum dolor sit amet, consectetr adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
                     />
 
                     {/* <BlogCard title="blog.title2" content="blog.p2" 
