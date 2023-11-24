@@ -23,7 +23,7 @@ function App() {
       <div className="flex-1">
         <Switch>
           <Route exact path="/" component={home} className="z-[-1]"/>
-          <Route exact path="/ivt-portfolio" component={home} className="z-[-1]"/>
+          <Route exact path="/#ivt-portfolio" component={home} className="z-[-1]"/>
           <Route exact path="/about" component={about} />
           <Route exact path="/profile" component={profile} />
           <Route exact path="/portfolio" component={portfolio} />
