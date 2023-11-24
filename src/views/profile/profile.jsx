@@ -52,7 +52,7 @@ const Profile = () => {
             <div className="border-t border-sky-500 mt-2 mb-0 md:mb-10 mr-10 border-2"></div>
             <ul className="text-sm">
                 <span className="flex  mt-3 md:mt-20"><PiPlant className="text-sky-500"/><li><FormattedMessage id="profile.Hb1" defaultMessage="Programar proyectos personales" /></li> </span>
-                <span className="flex  mt-4"><PiPlant className="text-sky-500"/><li><FormattedMessage id="profile.Hb2" defaultMessage="Leer" /></li> </span>
+                <span className="flex  mt-4"><PiPlant className="text-sky-500"/><li><FormattedMessage id="profile.Hb2" defaultMessage="Sumergirme en libros apasionantes" /></li> </span>
                 <span className="flex  mt-4"><PiPlant className="text-sky-500"/><li><FormattedMessage id="profile.Hb3" defaultMessage="Largas caminatas" /></li> </span>
                 <span className="flex  mt-4"><PiPlant className="text-sky-500"/><li><FormattedMessage id="profile.Hb4" defaultMessage="Pasar tiempo con familiares y amigos" /></li> </span>
             </ul>
