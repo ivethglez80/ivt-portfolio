@@ -15,7 +15,7 @@ const BlogCard = ({ blogImg, title, content, defTitle, defContent }) => {
 const Blog = () => {
     return (
         <>
-            <div className="flex flex-col items-center mt-5 md:mt-0 md:grid md:grid-cols-3 md:mx-10 md:gap-20 animate-fadeIn md:pt-[60px]">
+            <div className="flex flex-col items-center mt-5 md:mt-0 md:grid md:grid-cols-3 md:mx-10 md:gap-20 animate-fadeIn md:pt-[50px]">
 
                 <div className="md:col-span-2 text-slate-300 flex flex-col items-center md:mt-16 relative">
                     <img src={ComingSoonPic} alt="coming soon" className="rounded-lg w-[280px] md:h-[400px] md:w-auto z-[-1]" />

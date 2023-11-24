@@ -43,7 +43,7 @@ const Portfolio = () => {
                 urlLink={"https://github.com/ivethglez80/landing-basic-react-cssModules"}
                 cardImg={lawyer}
                 title="portfolio.title1" desc="portfolio.desc1"
-                defaultT="Bufé de Abogados"
+                defaultT="Bufete de Abogados"
                 defaultD="Página landing responsive ReactJs / TailwindCss nodemailer"
             />
 

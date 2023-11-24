@@ -5,7 +5,7 @@ import {PiPlant} from "react-icons/pi";
 
 const Profile = () => {
     return (
-        <div className="animate-fadeIn mx-5 md:mx-10 mt-5 md:mt-10 md:grid md:grid-cols-4 md:gap-16 text-slate-300 md:pt-[60px]">
+        <div className="animate-fadeIn mx-5 md:mx-10 mt-5 md:mt-10 md:grid md:grid-cols-4 md:gap-16 text-slate-300 md:pt-[40px]">
 
             <div className="text-start mb-5 md:mb-0">
             <h1 className="font-title font-bold text-2xl"><FormattedMessage id="profile.edu" defaultMessage="EDUCACION" /></h1 >
@@ -31,7 +31,7 @@ const Profile = () => {
                 <li className="border border-slate-300 rounded-full text-start mr-20 pl-4 my-3">EXPRESS JS</li>
                 <li className="border border-slate-300 rounded-full ml-20 pl-4 my-3">POSTGRESQL</li>
                 <li className="border border-slate-300 rounded-full text-start mr-20 pl-12 my-3">GIT</li>
-                <li className="border border-slate-300 rounded-full ml-20 pl-4 my-3">NODEJS</li>            
+                <li className="border border-slate-300 rounded-full ml-20 pl-4 my-3">TYPESCRIPT</li>            
             </ul>
             </div>
 
