@@ -1,7 +1,7 @@
 
 import './App.css';
 import {LangProvider} from "./context/langContext";
-import { HashRouter  as Routes, Route,  Switch } from "react-router-dom";
+import { BrowserRouter as Routes, Route,  Switch } from "react-router-dom";
 import home from "./views/home/home"
 import about from "./views/about/about"
 import profile from "./views/profile/profile"
