@@ -5,7 +5,7 @@ import {PiPlant} from "react-icons/pi";
 
 const Profile = () => {
     return (
-        <div className="animate-fadeIn mx-5 md:mx-10 mt-5  md:grid md:grid-cols-4 md:gap-16 text-slate-300 md:pt-[60px]">
+        <div className="animate-fadeIn mx-5 md:mx-10 mt-5 md:mt-10 md:grid md:grid-cols-4 md:gap-16 text-slate-300 md:pt-[40px]">
 
             <div className="text-start mb-5 md:mb-0">
             <h1 className="font-title font-bold text-2xl"><FormattedMessage id="profile.edu" defaultMessage="EDUCACION" /></h1 >
@@ -31,7 +31,7 @@ const Profile = () => {
                 <li className="border border-slate-300 rounded-full text-start mr-20 pl-4 my-3">EXPRESS JS</li>
                 <li className="border border-slate-300 rounded-full ml-20 pl-4 my-3">POSTGRESQL</li>
                 <li className="border border-slate-300 rounded-full text-start mr-20 pl-12 my-3">GIT</li>
-                <li className="border border-slate-300 rounded-full ml-20 pl-4 my-3">JAVA</li>            
+                <li className="border border-slate-300 rounded-full ml-20 pl-4 my-3">NODEJS</li>            
             </ul>
             </div>
 
@@ -52,8 +52,8 @@ const Profile = () => {
             <div className="border-t border-sky-500 mt-2 mb-0 md:mb-10 mr-10 border-2"></div>
             <ul className="text-sm">
                 <span className="flex  mt-3 md:mt-20"><PiPlant className="text-sky-500"/><li><FormattedMessage id="profile.Hb1" defaultMessage="Programar proyectos personales" /></li> </span>
-                <span className="flex  mt-4"><PiPlant className="text-sky-500"/><li><FormattedMessage id="profile.Hb2" defaultMessage="Lectura fantastica" /></li> </span>
-                <span className="flex  mt-4"><PiPlant className="text-sky-500"/><li><FormattedMessage id="profile.Hb3" defaultMessage="Largas caminatas para pensar y/o charlar" /></li> </span>
+                <span className="flex  mt-4"><PiPlant className="text-sky-500"/><li><FormattedMessage id="profile.Hb2" defaultMessage="Leer" /></li> </span>
+                <span className="flex  mt-4"><PiPlant className="text-sky-500"/><li><FormattedMessage id="profile.Hb3" defaultMessage="Largas caminatas" /></li> </span>
                 <span className="flex  mt-4"><PiPlant className="text-sky-500"/><li><FormattedMessage id="profile.Hb4" defaultMessage="Pasar tiempo con familiares y amigos" /></li> </span>
             </ul>
             </div>

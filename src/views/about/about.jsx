@@ -19,7 +19,7 @@ import hero7Sm from "./../../img/heronight7Sm.png";
 
 const About = () => {
     return (
-        <div className=" md:grid md:grid-cols-2 animate-fadeIn  md:pt-[80px]">
+        <div className=" md:grid md:grid-cols-2 animate-fadeIn  md:pt-[60px]">
 
 
 
