@@ -10,7 +10,6 @@ import hero5 from "./../../img/heronight5.png";
 import hero6 from "./../../img/heronight6.png";
 import hero7 from "./../../img/heronight7.png";
 import avatarSm from "./../../img/heronight2Sm.png";
-import heroSm from "./../../img/heronightSm.png";
 import hero3Sm from "./../../img/heronight3Sm.png";
 import hero4Sm from "./../../img/heronight4Sm.png";
 import hero5Sm from "./../../img/heronight5Sm.png";
