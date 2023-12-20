@@ -43,7 +43,7 @@ const NavBar = () => {
             </span>
             
             <ul className={`bg-gray-500 pb-2 text-start pr-3 rounded-md absolute mt-12 ml-6
-                           md:pb-0 md:mt-0 md:bg-transparent md:pt-0 md:flex md:items-center md:justify-between md:opacity-100 md:z-10 md:static
+                           md:pb-0 md:mt-0 md:bg-transparent md:pt-0 md:flex md:items-center  md:opacity-100 md:z-10 md:static
                            ${menuOpen ? "opacity-100 z-10" : "opacity-0 z-[-1]"} transition duration-300 ease-in-out`}>
 
             <li className={location.pathname === "/" ? "text-sky-500" : "text-slate-200"}>
@@ -66,9 +66,9 @@ const NavBar = () => {
             <Link to="/contact-info" className="ml-5 hover:text-sky-500" onClick={toggleMenu}><FormattedMessage id="nav.contact" defaultMessage="Contacto" /></Link>
             </li>
 
-            <li className={location.pathname === "/blog" ? "text-sky-500" : "text-slate-200"}>
+            {/* <li className={location.pathname === "/blog" ? "text-sky-500" : "text-slate-200"}>
             <Link to="/blog" className="ml-5 mr-0" onClick={toggleMenu}><FormattedMessage id="nav.blog" defaultMessage="Blog" /></Link>
-            </li>
+            </li> */}
 
             </ul>
 </div>

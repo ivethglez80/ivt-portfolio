@@ -24,9 +24,9 @@
     "profile.skGoals": "ME INTERESA",
     "profile.Hb": "HOBBIES",
     "profile.Hb1": "Programar proyectos personales",
-    "profile.Hb2": "Leer",
-    "profile.Hb3": "Largas caminatas",
-    "profile.Hb4": "Pasando tiempo con familiares y amigos",
+    "profile.Hb2": "Leer libros de aventuras fantasticas",
+    "profile.Hb3": "Largas caminatas para pensar y charlar",
+    "profile.Hb4": "Mi favorito: Pasar tiempo con familiares y amigos",
    
     "portfolio.title1": "Bufé de Abogados",
     "portfolio.desc1": "Página landing responsive ReactJs / TailwindCss nodemailer",
